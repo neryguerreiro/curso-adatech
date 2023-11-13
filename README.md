@@ -6,5 +6,5 @@
 *Comando git push
 *Comando git pull
 
-* Comando adicionado pelo site do GitHub
+* Comando adicionado pelo site do GitHub - para aprender o comando Git pull
 
