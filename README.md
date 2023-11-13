@@ -6,3 +6,5 @@
 *Comando git push
 *Comando git pull
 
+* Comando adicionado pelo site do GitHub
+
