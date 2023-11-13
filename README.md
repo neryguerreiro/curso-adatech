@@ -3,10 +3,6 @@
 # Salvando modificações no git
 ## Salvando alterações no Git
 
-
 *Comando git push
+*Comando git pull
 
-* Comando git pull
-* Modificando pelo git no site github
-* *******************************************
-* *******************************************
